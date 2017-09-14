@@ -1,7 +1,2 @@
-# MineCraft
-#include"iostream"
-using namespace std;
-int main()
-{
-cout<<"你好，世界~"<<endl;
-}
+我找了找不到了
+你却还在想些什么
